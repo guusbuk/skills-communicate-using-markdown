@@ -7,3 +7,9 @@
 small meaningfull message
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` python
+def func(x):
+  return s
+```
