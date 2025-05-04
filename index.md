@@ -13,3 +13,9 @@ small meaningfull message
 def func(x):
   return s
 ```
+
+- [x] completed task
+- [ ] uncompleted
+- [x] completed
+- [x] completed
+- [ ] todo  
