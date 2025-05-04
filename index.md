@@ -5,3 +5,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 small meaningfull message
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
